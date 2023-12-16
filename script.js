@@ -11,7 +11,7 @@ let songItems = Array.from(document.getElementsByClassName('songItem'));
 
 let songs = [
     {songName: "Jai Shree Ram - Adipurush", filePath: "songs/1.mp3", coverPath: "Adipurush.jpeg"},
-    {songName: "Aarambh Hai Prachand", filePath: "songs/2.mp3", coverPath: "gulal.jpeg"},
+    {songName: "Aarambh Hai Prachand", filePath: "songs/2.mp3", coverPath: "Gulal.jpeg"},
     {songName: "Ram Siya Ram - Adipurush", filePath: "songs/3.mp3", coverPath: "Adipurush.jpeg"},
     {songName: "Har Har Mahadev", filePath: "songs/4.mp3", coverPath: "shiv.jpeg"},
     {songName: "Mila Toh Marega - Raktcharitra", filePath: "songs/5.mp3", coverPath: "Gulal.jpeg"},
